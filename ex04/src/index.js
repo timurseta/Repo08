@@ -1,9 +1,10 @@
 // Only change code below this line
 function localScope() {
     var myVariable = "I am here!";
-    console.log(myVariable);
+    console.log('inside localScope', myVariable);
 }
 
+localScope();
 
 // Only change code above this line
 
