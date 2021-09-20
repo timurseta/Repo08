@@ -1,10 +1,10 @@
-function reusableFunction() {
-   
-    // Only write code below this line
+// Write code below this line
 
-    // Only write code above this line
+function reusableFunction() {
+    console.log("Hi Padawan!");
+    
+// Write code above this line
 
 }
 
-module.exports = reusableFunction;
-console.log("Hi Padawan!");
+module.exports = reusableFunction();
