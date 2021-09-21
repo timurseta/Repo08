@@ -10,5 +10,4 @@ functionPrintInfo("Michael", 43);
 
 // Write code above this line
 
-module.exports 
-module.exports
+module.exports = functionPrintInfo;
